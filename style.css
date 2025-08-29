@@ -1,0 +1,43 @@
+body {
+   background-color: rgb(105, 0, 0);
+
+}
+header {
+    background-color: white;
+}
+header img {
+    height: 40px;
+     padding: 10px;
+    margin: 10px;
+}
+
+.infa {
+     background-color: #f50072;
+    border: 5px;
+}
+
+.pojapka {
+    background-color: blue;
+    border: 2px;
+}
+
+.nomer {
+    background-color: rgb(104, 0, 99);
+    border: 5px;
+}
+
+ header a{
+   color: rgb(255, 0, 76)0)55, 0, 0);
+    background-color: red;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 25px;
+    padding: 2px;
+    margin: 2px;
+
+}
+
+main img {
+   height: 105px;
+}
